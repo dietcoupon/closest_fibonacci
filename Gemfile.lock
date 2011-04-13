@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    closest_fibonacci (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    minitest (2.0.2)
+    rake (0.8.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.0.0)
+  closest_fibonacci!
+  minitest (~> 2.0.0)
+  rake
